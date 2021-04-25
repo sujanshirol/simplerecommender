@@ -27,7 +27,9 @@ simplerecommender.rec(df,
 ```
 
 ## Future works
-Get rid of parameter avg_rating_col
+1. Get rid of parameter avg_rating_col
+2. Optimization
+3. Add more functionality
 
 ## Drawbacks
 1. Need of both average rating per item and user ratings to all the items
