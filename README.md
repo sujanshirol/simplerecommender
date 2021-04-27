@@ -1,7 +1,9 @@
 # simplerecommender
 Recommending items for a specific existing user based on user rating and average rating per item.
 
-[Link to PyPI ](https://pypi.org/project/simplerecommender) 
+Link to [PyPI](https://pypi.org/project/simplerecommender)
+
+Link to [detailed example](https://github.com/sujanshirol/simplerecommender/blob/main/Example.ipynb)
 
 ## Installation
 
